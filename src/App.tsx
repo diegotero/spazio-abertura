@@ -12,7 +12,7 @@ import ProductLines from './components/ProductLines';
 import WhatWeDoSection from './components/WhatWeDoSection';
 import { trackEvent } from './components/Analytics';
 
-// Image URL
+// Image URLs
 const HERO_MOBILE_URL = "https://vrrohcaovubbp0uw.public.blob.vercel-storage.com/clientes/spazio/bg-hero-aberturas-spazio-y63FuqTWk6UYy6elWeJWYcxRGohWWd.avif";
 const HERO_DESKTOP_URL = "https://vrrohcaovubbp0uw.public.blob.vercel-storage.com/clientes/spazio/bg-hero-aberturas-spazio-y63FuqTWk6UYy6elWeJWYcxRGohWWd.avif";
 
