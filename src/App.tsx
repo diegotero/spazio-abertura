@@ -267,7 +267,7 @@ function App() {
           <div className="container mx-auto px-6">
             <div className="max-w-3xl mx-auto text-center mb-16">
               <h2 id="why-choose-us-heading" className="text-4xl font-bold mb-6">¿Por qué elegirnos?</h2>
-              <p className="text-xl text-gray-600">Descubrí por qué somos la elección preferida en aberturas de aluminio.</p>
+              <p className="text-xl text-gray-600">En Spazio Aberturas, transformamos tus espacios con aberturas de aluminio a medida, de alta calidad y diseño innovador.</p>
             </div>
 
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
